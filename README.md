@@ -16,4 +16,4 @@ En este repositorio alojamos el proyecto #2 de la materia PROGRAMACION III, elab
 - *1ER ENTREGABLE* (en esta carpeta se encuentra el **documento de arquitectura** y el **presupuesto del proyecto**).
 - *2DO ENTREGABLE* (en esta carpeta se encuentra el **código fuente del videojuego**, el **manual de usuario**).
 
-![logo-fondo-blanco-preview-1](https://user-images.githubusercontent.com/60278674/145339684-93728b56-90d1-4531-91e2-05c61792c52a.jpg)![145339684-93728b56-90d1-4531-91e2-05c61792c52a](https://user-images.githubusercontent.com/60278674/145339712-b97f3a19-603c-4030-9e65-c218d0237e03.jpg)
+![logo-fondo-blanco-preview-1](https://user-images.githubusercontent.com/60278674/145339684-93728b56-90d1-4531-91e2-05c61792c52a.jpg)
